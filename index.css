@@ -168,42 +168,7 @@ span{
    font-size: 1.2rem;
    margin: 0rem 0 1rem;
 }
- 
-.services h2{
-   margin: -1rem 0 2.5rem;
- }
- .services-container{
-   display: flex;
-   justify-content: center;
-   align-items: center;
-   flex-wrap: wrap;
-   gap: 1.2rem;
- }
- .services-container .services-box {
-   flex: 1 1 15rem;
-   background-color: rgb(10, 41, 41);
-   padding: 2rem 1rem 2.8rem;
-   border-radius: 2rem;
-   text-align: center;
-   border: .2rem solid rgb(16, 54, 54);
-   transition: .5s ease;
- }
- .services-container .services-box:hover{
-   border-color:  rgb(205, 126, 47);
-   transform: scale(1.02);
- }
- .services-box i{
-   font-size: 4rem;
-   color: rgb(205, 126, 47);
- }
- .services-box h3{
-   font-size: 2rem;
- }
- .services-box p{
-   font-size: 1.3rem;
-   margin: 1rem 0 2rem;
- }
- .main-title h2{
+.main-title h2{
    text-align: center;
    font-size: 5rem;
    font-family: 'Poppins', sans-serif; 
